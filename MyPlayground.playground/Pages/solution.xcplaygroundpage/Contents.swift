@@ -49,7 +49,7 @@ func helloVariable() {
     greeting = "Guten Tag"
     print("\(greeting), world!")
 }
-
+helloVariable()
 helloVariable()
 helloVariable()
 helloVariable()
